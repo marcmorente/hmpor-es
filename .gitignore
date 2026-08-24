@@ -1,0 +1,11 @@
+.work/
+.opencode/
+__pycache__/
+
+# Artefactos de compilación de bilingue/ (Rust)
+bilingue/target/
+
+# Libros generados: se publican en GitHub Releases
+hpmor.epub
+hpmor-bilingue.epub
+hpmor-bilingue.html

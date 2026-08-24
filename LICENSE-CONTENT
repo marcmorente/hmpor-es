@@ -1,0 +1,26 @@
+The Spanish translation of "Harry Potter and the Methods of Rationality"
+contained in this repository (the file `hpmor.html`, the generated books
+`hpmor.epub`, `hpmor-bilingue.epub` and `hpmor-bilingue.html`, the cover
+images, and the translation documents `ESTILO.md`, `GLOSARIO.md` and
+`VOCES.md`) is licensed by Marc Morente under the
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+License (CC BY-NC-SA 4.0).
+
+Full license text: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+
+You are free to share and adapt this material for non-commercial purposes,
+provided that you give appropriate credit, link to the license, and
+distribute your contributions under the same license.
+
+Underlying works remain the property of their respective owners:
+
+- "Harry Potter and the Methods of Rationality" was written by
+  Eliezer Yudkowsky. Official site: https://hpmor.com
+- The English source text in this repository comes from the revised
+  e-book edition prepared by the https://github.com/rrthomas/hpmor project.
+- "Harry Potter" and all related characters and settings are the property
+  of J. K. Rowling. This is a non-commercial fan work. No copyright
+  infringement is intended.
+
+The source code in this repository is licensed separately under the MIT
+License. See the LICENSE file.

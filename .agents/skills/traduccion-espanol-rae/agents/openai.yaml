@@ -1,0 +1,4 @@
+interface:
+  display_name: "Traducción al español RAE"
+  short_description: "Traduce al español de España según RAE y ASALE"
+  default_prompt: "Usa $traduccion-espanol-rae para traducir este texto al español de España y conservar su significado, tono y formato."
