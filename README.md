@@ -1,5 +1,14 @@
 # Harry Potter and the Methods of Rationality (HPMOR): traducción al español y edición bilingüe
 
+[![Release](https://img.shields.io/github/v/release/marcmorente/hmpor-es)](https://github.com/marcmorente/hmpor-es/releases/latest)
+[![Licencia](https://img.shields.io/badge/licencia-MIT-blue)](LICENSE)
+
+<p align="center">
+  <a href="https://github.com/marcmorente/hmpor-es/releases/latest">
+    <img src="hpmor-portada.jpg" width="280" alt="Portada de HPMOR en español: Harry Potter y los métodos de la racionalidad, de Eliezer Yudkowsky">
+  </a>
+</p>
+
 Traducción al español de *Harry Potter and the Methods of Rationality*, de
 Eliezer Yudkowsky, con edición bilingüe incorporada.
 
