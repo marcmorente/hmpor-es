@@ -1,12 +1,15 @@
-# hpmor-es
+# Harry Potter and the Methods of Rationality (HPMOR): traducción al español y edición bilingüe
 
 Traducción al español de *Harry Potter and the Methods of Rationality*, de
 Eliezer Yudkowsky, con edición bilingüe incorporada.
 
 ## Sobre este proyecto
 
-Este es un proyecto personal. Lo he realizado por disfrute, sin ningún fin
-comercial, y lo ofrezco por si resulta útil a otras personas.
+Este es un proyecto personal. Ofrece dos libros electrónicos gratuitos: la
+traducción completa de HPMOR al español y una versión bilingüe
+inglés-español. La obra original es una *fanfiction* de Eliezer Yudkowsky.
+Lo he realizado por disfrute, sin ningún fin comercial, y lo ofrezco por si
+resulta útil a otras personas.
 
 El proyecto contiene dos libros electrónicos:
 
